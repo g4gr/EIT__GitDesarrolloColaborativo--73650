@@ -1,1 +1,1 @@
-console.log("Servidor escuchando en puerto 5500");
+console.log("Aplicación escuchando en puerto 5500");
