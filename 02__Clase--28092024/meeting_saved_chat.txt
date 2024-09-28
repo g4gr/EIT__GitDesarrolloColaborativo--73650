@@ -1,0 +1,68 @@
+10:01:19 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Buen dia
+10:01:27 De Miqueas Santillán-978910 a Todos:
+	Buenass
+10:01:41 De Ivan Lorenzo Galarza a Todos:
+	Buenas
+10:04:00 De Tomàs Señorans a Todos:
+	hola buenas dias
+10:12:26 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Vamos bien
+10:17:59 De Fernando Decanio-979386 a Todos:
+	Que significa HEAD~0?
+10:20:06 De Fernando Decanio-979386 a Todos:
+	Si!
+10:40:17 De Emanuel Gonzalez Gartland-316610 a Todos:
+	no
+10:43:10 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Profe a mi me abrió el vi, antes de configurarlo
+10:43:23 De Instructor :: Gaby a Todos:
+	:q
+10:43:35 De Emanuel Gonzalez Gartland-316610 a Todos:
+	ahh ok
+10:44:35 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Yo lo odiaba, hasta que lo empecé a usar en el trabajo
+11:03:45 De Luciano Robles-717993 a Todos:
+	esto es para trabajar en equipo en git?
+11:06:32 De Luciano Robles-717993 a Todos:
+	sisi
+11:06:39 De Luciano Robles-717993 a Todos:
+	y que pasa si se usan distintos sistemas operativos en un equipo? Solo cambian los comandos
+11:07:31 De Luciano Robles-717993 a Todos:
+	okey
+11:32:26 De Instructor :: Gaby a Todos:
+	Volvemos 11:47 hs
+11:50:49 De Instructor :: Gaby a Todos:
+	Volvemos _
+12:10:41 De Fernando Decanio-979386 a Todos:
+	Se corto el audio en lo ultimo
+12:10:56 De Fernando Decanio-979386 a Todos:
+	perfecto
+12:10:58 De Miqueas Santillán-978910 a Todos:
+	se entendio perfecto
+12:48:43 De Luciano Robles-717993 a Todos:
+	El error se arregla en producción es que en git se edita solo esa parte y no todo el código como antes se explicaba?
+12:53:15 De Luciano Robles-717993 a Todos:
+	Claro
+12:53:32 De Luciano Robles-717993 a Todos:
+	El master en git lo usa solo el lead?
+12:54:37 De Luciano Robles-717993 a Todos:
+	sisi
+12:55:37 De Luciano Robles-717993 a Todos:
+	okey
+12:57:21 De Instructor :: Gaby a Todos:
+	GitHub
+13:01:19 De Luciano Robles-717993 a Todos:
+	Profe comentaba que generalmente no usaba visual studio, eso es porque se puede programar directamente desde git hub?
+13:01:43 De Instructor :: Gaby a Todos:
+	Documentación de Git Branch : Git - git-branch Documentation (git-scm.com)
+13:05:01 De Luciano Robles-717993 a Todos:
+	Claro
+13:06:34 De Luciano Robles-717993 a Todos:
+	Gracias profe
+13:08:46 De Tomàs Señorans a Todos:
+	buen finde
+13:08:57 De Emanuel Gonzalez Gartland-316610 a Todos:
+	buen finde profe
+13:09:02 De Miqueas Santillán-978910 a Todos:
+	nos vemoss!!
