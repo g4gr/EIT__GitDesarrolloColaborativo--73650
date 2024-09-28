@@ -1,0 +1,35 @@
+# * Estructura del commit *
+# ** Titulo **
+# Contexto : FEAT, FIX, DOCS, STYLE, REFACTOR, TEST, BUGFIX , HOTFIX, SECURITY.
+# Archivos ABM : [A] Agregar, [B] Borrar, [M] Modificar.
+# Debe ser una descripcion corta y descriptiva. Hasta 50 caracteres.
+# Ejemplo : FEAT( index.html ) : Agregar nuevo archivo de configuracion.
+
+
+---
+** Descripcion **
+# Debe ser una descripcion mas detallada del cambio realizado.
+
+
+---
+** Referencias **
+# Debe ser una lista de referencias a otros commits, issues, etc.
+
+---
+* SOBRE EL PEDIDO *
+
+** Ticket JIRA :
+** Link al pedido :
+** Autor (Nombre y Apellido) :
+*** Area o Departamento :
+*** Legajo :
+ ** Version :
+
+---
+** Estado **
+# Debe ser el estado del commit.
+
+---
+** Comentarios **
+# Debe ser un comentario de los cambios realizados.
+# Debe contener la descripcion del cambio y su alcance.
