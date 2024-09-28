@@ -6,6 +6,7 @@
 # Ejemplo : FEAT( index.html ) : Agregar nuevo archivo de configuracion.
 
 
+
 ---
 ** Descripcion **
 # Debe ser una descripcion mas detallada del cambio realizado.
@@ -14,6 +15,7 @@
 ---
 ** Referencias **
 # Debe ser una lista de referencias a otros commits, issues, etc.
+
 
 ---
 * SOBRE EL PEDIDO *
@@ -25,9 +27,11 @@
 *** Legajo :
  ** Version :
 
+
 ---
 ** Estado **
 # Debe ser el estado del commit.
+
 
 ---
 ** Comentarios **
