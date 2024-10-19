@@ -1,0 +1,172 @@
+09:54:05 De Instructor :: Gaby a Cinthia Marquez Asistente Académica 6(mensaje directo):
+	Hola Cinthia, buen dia!	Espero estes muy bien y gracias de antemano por el soporte en la clase de hoy!
+10:02:55 De Instructor :: Gaby a Todos:
+	Hola, buen dia!	Arrancamos en 3 min
+10:07:16 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Buen dia
+10:07:27 De Fernando Decanio-979386 a Todos:
+	Buen dia!
+10:07:39 De Tomàs Señorans a Todos:
+	hola buenos días
+10:08:04 De Luciano Robles-717993 a Todos:
+	Buen día
+10:10:46 De Luciano Robles-717993 a Todos:
+	Cuando se suben los proyectos de uno, para aplicar a trabajos, se usa github?
+10:14:42 De Luciano Robles-717993 a Todos:
+	Claro cuando se habla de portfolio en general se refiere al uso de github
+10:25:54 De Instructor :: Gaby a Todos:
+	GitHub CLI : https://cli.github.com/
+10:28:12 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Profe, a mi me dice command not found
+10:29:36 De Emanuel Gonzalez Gartland-316610 a Todos:
+	ahí pude
+10:30:47 De Luciano Robles-717993 a Todos:
+	como se borra pantalla?
+10:31:06 De Instructor :: Gaby a Todos:
+	Replying to "como se borra pantal..."
+	
+	cls o clear o CTRL + L
+10:31:47 De Luciano Robles-717993 a Todos:
+	Reacted to cls o clear o CTRL +... with "👍"
+10:34:11 De Fernando Decanio-979386 a Todos:
+	Hay algún standard / buena practica para la denominación de cada repo?
+10:38:34 De Fernando Decanio-979386 a Todos:
+	Gracias!
+10:38:43 De Fernando Decanio-979386 a Todos:
+	Replicas el bem , esta bueno
+10:49:47 De Instructor :: Gaby a Todos:
+	gh repo create my-project --private --source=. --remote=upstream
+10:52:41 De Instructor :: Gaby a Todos:
+	g4gr/EIT__GitDesarrolloColaborativo--73650 (github.com)
+11:01:30 De Tomàs Señorans a Todos:
+	si
+11:01:36 De Fernando Decanio-979386 a Todos:
+	Si
+11:08:16 De Fernando Decanio-979386 a Todos:
+	Si tenes mas de una cuenta en GitHub, el CLI se tiene que modificar cada vez que quieras usar una u otra cuenta?
+11:09:21 De Fernando Decanio-979386 a Todos:
+	perfecto
+11:09:46 De Instructor :: Gaby a Todos:
+	Replying to "Si tenes mas de una ..."
+	
+	Si, podes hacer un switch entre cuentas.	Te paso la URL : https://cli.github.com/manual/gh_auth_switch
+11:09:52 De Instructor :: Gaby a Todos:
+	Reacted to "perfecto" with 👍
+11:09:54 De Fernando Decanio-979386 a Todos:
+	gracias
+11:10:34 De Instructor :: Gaby a Todos:
+	<picture>	              <img	                src="./images/img00--sm.jpg"	                alt="Un primer plano de una flor rosa con hojas verdes en el fondo"	                loading="lazy"	                fetchpriority="low"	                decoding="async"	                srcset="	                  ./images/img00--sm.jpg  500w,	                  ./images/img00--lg.jpg  700w,	                  ./images/img00--lg.jpg 1000w	                "	                sizes="( min-width: 500px ) 50vw, ( min-width: 700px) 70vw , (min-width : 1000px) 100vw"	              />	              <p>	                Fotografo - Todos los creditos reservados : Julio Cesar (H.)	              </p>	            </picture>
+11:11:59 De Instructor :: Gaby a Todos:
+	Gist Publico > Lineas de HTML (github.com)
+11:31:04 De Fernando Decanio-979386 a Todos:
+	Sin filtro
+11:31:56 De Luciano Robles-717993 a Todos:
+	Como se llama esta metodología que estaría bien implementar?
+11:32:53 De Luciano Robles-717993 a Todos:
+	Claro, manejar el uso de versiones y no pisar el trabajo, sino se pierde? puede ser?
+11:36:06 De Luciano Robles-717993 a Todos:
+	Claro
+11:37:57 De Luciano Robles-717993 a Todos:
+	Okey gracias
+11:37:59 De Luciano Robles-717993 a Todos:
+	sisi
+11:38:26 De Instructor :: Gaby a Todos:
+	Volvemos 11:50 hs
+12:04:58 De Instructor :: Gaby a Todos:
+	g4gr/EIT__GitDesarrolloColaborativo--73650: Repositorio creado para la comision # 73650 de Educacion IT (github.com)
+12:09:37 De Luciano Robles-717993 a Todos:
+	donde se ve el fork?
+12:22:50 De Emanuel Gonzalez Gartland-316610 a Todos:
+	bastante claro todo
+12:22:54 De Fernando Decanio-979386 a Todos:
+	Como es la parte del pull request
+12:22:57 De Luciano Robles-717993 a Todos:
+	yo hice el fork, clone pero no pude poner mi nombre
+12:23:14 De Instructor :: Gaby a Todos:
+	Reacted to "bastante claro todo" with 💙
+12:24:32 De Fernando Decanio-979386 a Todos:
+	Banca y lo hago
+12:24:46 De Luciano Robles-717993 a Todos:
+	aun no
+12:24:49 De Instructor :: Gaby a Todos:
+	Replying to "yo hice el fork, clo..."
+	
+	Creaste la rama?
+12:25:07 De Instructor :: Gaby a Todos:
+	Replying to "aun no"
+	
+	git branch Feature--[nombre usuario]
+12:25:16 De Fernando Decanio-979386 a Todos:
+	Sin querer estoy trabajando en master
+12:25:23 De Instructor :: Gaby a Todos:
+	Replying to "aun no"
+	
+	git switch Feature--[nombre usuario]
+12:25:30 De Instructor :: Gaby a Todos:
+	Replying to "aun no"
+	
+	modificas el archivo
+12:25:35 De ISI Luciano Robles a Todos:
+	desde git
+12:25:43 De Instructor :: Gaby a Todos:
+	Replying to "desde git"
+	
+	si
+12:35:43 De Emanuel Gonzalez Gartland-316610 a Todos:
+	muy sábado para andar pensando jaja
+12:36:44 De Instructor :: Gaby a Todos:
+	Reacted to "muy sábado para anda..." with 😂
+12:41:51 De Fernando Decanio-979386 a Todos:
+	Vamos bien
+12:41:52 De Miqueas Santillán-978910 a Todos:
+	Sii
+12:43:43 De Fernando Decanio-979386 a Todos:
+	si
+12:47:43 De Fernando Decanio-979386 a Todos:
+	El nombre de la rama es cualquier nombre?
+12:49:41 De Fernando Decanio-979386 a Todos:
+	Ahi hice el push
+12:50:01 De Fernando Decanio-979386 a Todos:
+	listado
+12:50:18 De Fernando Decanio-979386 a Todos:
+	En esi
+12:50:21 De Fernando Decanio-979386 a Todos:
+	eso
+12:51:14 De Fernando Decanio-979386 a Todos:
+	Ahi fue pero no hice merge
+12:51:40 De Luciano Robles-717993 a Todos:
+	Hay un tiempo limitado para hacer el fork?
+12:52:18 De Emanuel Gonzalez Gartland-316610 a Todos:
+	Yo ahí puse un mensaje donde debería haber ido en primer lugar jaja
+12:53:35 De Fernando Decanio-979386 a Todos:
+	Yo a Ema
+12:54:12 De Miqueas Santillán-978910 a Todos:
+	Me perdi un poco jajaj
+12:55:05 De Miqueas Santillán-978910 a Todos:
+	Ahi ya está el de fer creo
+12:56:00 De Miqueas Santillán-978910 a Todos:
+	Esta copadoo
+12:57:21 De Fernando Decanio-979386 a Todos:
+	De que sirve tener esta vista?
+12:59:16 De Fernando Decanio-979386 a Todos:
+	Pero en proyecto grandes, me resultaría difícil de leer
+12:59:38 De Fernando Decanio-979386 a Todos:
+	practica
+13:01:02 De Instructor :: Gaby a Todos:
+	Reacted to "practica" with 💙
+13:02:24 De Fernando Decanio-979386 a Todos:
+	Muy bueno
+13:02:28 De Emanuel Gonzalez Gartland-316610 a Todos:
+	estuvo muy bueno
+13:02:29 De Miqueas Santillán-978910 a Todos:
+	muy buenoo
+13:04:39 De Tomàs Señorans a Todos:
+	buen finde  gracias
+13:04:49 De Emanuel Gonzalez Gartland-316610 a Todos:
+	buen finde
+13:04:50 De Miqueas Santillán-978910 a Todos:
+	Nos vemooss!
+13:04:51 De Luciano Robles-717993 a Todos:
+	Gracias, buen finde!
+13:04:53 De Fernando Decanio-979386 a Todos:
+	abrazo
